@@ -1,0 +1,2 @@
+/home/batch-1/Desktop/Keerthana/devicedrivers/parampassing/kern_parm.o
+
